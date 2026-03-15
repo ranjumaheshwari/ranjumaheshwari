@@ -1,8 +1,8 @@
 <h1 align="center">I'm Maheshwari M</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranjumaheshwari&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 - 🔭 I’m currently working on **Application of Computers**
 - 📫 Reach me at ****
