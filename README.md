@@ -4,11 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=ranjumaheshwari&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
 
-- 🔭 I’m currently working on **Application of Computers**
-- 📫 Reach me at ****
-
----
-
 <h3 align="center">GitHub Activity Overview</h3>
 
 <p align="center">
